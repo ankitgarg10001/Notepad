@@ -1,0 +1,20 @@
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\bin\Debug\Notepad_Ankit.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\bin\Debug\Notepad_Ankit.pdb
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.Notepad_Ankit.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.Properties.Resources.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.pdb
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.find.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.pdb
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\bin\Debug\Notepad_Ankit.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\bin\Debug\Notepad_Ankit.pdb
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.find.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.Notepad_Ankit.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\Notepad_Ankit.Properties.Resources.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\MAIN PROJECTS\Notepad_Ankit\Notepad_Ankit\obj\x86\Debug\GenerateResource.write.1.tlog
